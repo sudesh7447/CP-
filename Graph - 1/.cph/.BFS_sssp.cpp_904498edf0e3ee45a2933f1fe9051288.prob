@@ -1,0 +1,1 @@
+{"name":"Local: BFS_sssp","url":"d:\\codes\\codencode\\Graph - 1\\BFS_sssp.cpp","tests":[{"id":1672738893807,"input":"2\n3 2\n1 2\n2 3\n4 4\n1 2\n2 3\n3 4\n4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\codencode\\Graph - 1\\BFS_sssp.cpp","group":"local","local":true}
