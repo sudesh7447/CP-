@@ -1,1 +1,0 @@
-{"name":"Local: bridges_in_graph","url":"d:\\codes\\codencode\\Graph - 1\\bridges_in_graph.cpp","tests":[{"id":1672750937732,"input":"4 4\n1 2\n2 3\n2 4\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\codencode\\Graph - 1\\bridges_in_graph.cpp","group":"local","local":true}
